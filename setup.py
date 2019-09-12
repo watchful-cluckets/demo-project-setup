@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='Example repo for mentoring in the Springboard DSC Track',
-    author='Ken Cavagnolo',
+    author='your-username',
     license='MIT',
 )

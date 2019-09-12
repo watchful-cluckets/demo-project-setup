@@ -186,7 +186,7 @@ latex_documents = [
     ('index',
      'springboard-dsc-mentor-example.tex',
      u'springboard-dsc-mentor-example Documentation',
-     u"Ken Cavagnolo", 'manual'),
+     u"your-username", 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -216,7 +216,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'springboard-dsc-mentor-example', u'springboard-dsc-mentor-example Documentation',
-     [u"Ken Cavagnolo"], 1)
+     [u"your-username"], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -230,7 +230,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     ('index', 'springboard-dsc-mentor-example', u'springboard-dsc-mentor-example Documentation',
-     u"Ken Cavagnolo", 'springboard-dsc-mentor-example',
+     u"your-username", 'springboard-dsc-mentor-example',
      'Example repo for mentoring in the Springboard DSC Track', 'Miscellaneous'),
 ]
 

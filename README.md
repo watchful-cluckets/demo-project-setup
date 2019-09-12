@@ -10,16 +10,16 @@ design from the people at DrivenData.
 
 To replicate this example, simply do the following at the command
 prompt from within the directory where you want your project to
-reside. In the example below, the user `kcavagnolo` is using macOS:
+reside. In the example below, the user `your-username` is using macOS:
 
 ```bash
 $ pip3 install cookiecutter
-$ cd /Users/kcavagnolo/teaching
+$ cd /Users/your-username/teaching
 $ cookiecutter https://github.com/drivendata/cookiecutter-data-science
 
 > project_name [project_name]: springboard-dsc-mentor-example
 > repo_name [springboard-dsc-mentor-example]:
-> author_name [Your name (or your organization/company/team)]: Ken Cavagnolo
+> author_name [Your name (or your organization/company/team)]: your-username
 > description [A short description of the project.]: Example repo for mentoring in the Springboard DSC Track
 > Select open_source_license:
 >     1 - MIT
@@ -37,7 +37,7 @@ $ cd springboard-dsc-mentor-example
 $ git init
 $ git add .
 $ git commit -m "first commit"
-$ git remote add origin git@github.com:kcavagnolo/springboard-dsc-mentor-example.git
+$ git remote add origin git@github.com:your-username/springboard-dsc-mentor-example.git
 $ git push -u origin master
 ```
 
